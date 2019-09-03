@@ -1,0 +1,18 @@
+1. prompt user user for 10 exam scores
+calculate average score
+average score is calculated as sum of scores divided by number of scores
+
+for(integer counter =0; counter <10; counter++)
+	Prompt user for exam_score
+	Get exam_score
+	Update Sum = Sum + exam_score/number of score
+	counter++
+
+	
+2. input the number of inches of rainfall
+	process multiply roof dimensions by number of inches of rainfall
+	ouput divide that result  to get the number gallons of runoff during a given rainfall
+	
+	declare dimensions 50x20 roof is 600x 240 inches Length x width
+	declare 600x240x1=144,000 cubic inches 
+	declare 1 gallon is 231 cubic inches 
